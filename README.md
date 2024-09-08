@@ -1,5 +1,7 @@
 Título: Desvendando o Mundo das ODS: Uma Busca Colaborativa - imersão Dev com Google gemini
+
 Descrição:
+
 Já pensou em fazer parte de um movimento global para um futuro mais sustentável?  Neste projeto, você pode descobrir empresas e pessoas que estão contribuindo para os Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 Como usar:
  * Busque por nome: Descubra projetos de empresas e pessoas que admira.
