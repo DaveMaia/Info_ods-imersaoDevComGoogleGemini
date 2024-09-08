@@ -1,4 +1,4 @@
-Título: Desvendando o Mundo das ODS: Uma Busca Colaborativa
+Título: Desvendando o Mundo das ODS: Uma Busca Colaborativa - imersão Dev com Google gemini
 Descrição:
 Já pensou em fazer parte de um movimento global para um futuro mais sustentável?  Neste projeto, você pode descobrir empresas e pessoas que estão contribuindo para os Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 Como usar:
@@ -37,10 +37,3 @@ Edite os arquivos e adicione suas novas funcionalidades.
 
 **5. Envie um pull request**
 Abra um pull request para que suas alterações sejam revisadas e mescladas.
-
-Lembre-se: Um README bem escrito é o cartão de visitas do seu projeto. Invista tempo para criar um README claro, conciso e informativo.
-Gostaria de que eu te ajude a criar um README mais detalhado? Se sim, me forneça mais informações sobre o seu projeto, como:
- * Público-alvo: Quem você espera que use este projeto?
- * Funcionalidades: Quais são as principais funcionalidades do seu projeto?
- * Tecnologias: Quais outras tecnologias você utilizou além das mencionadas?
- * Próximos passos: Quais são os seus planos para o futuro do projeto?
