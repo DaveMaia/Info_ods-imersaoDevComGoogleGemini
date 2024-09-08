@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contribuições para as ODS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Contribuições para as ODS</h1>
+        <p>Saiba mais sobre as empresas e pessoas físicas que estão contribuindo para os Objetivos de Desenvolvimento Sustentável.</p>
+    </header>
+
+    <section id="explicacao-ods">
+        <h2>O que são as ODS?</h2>
+        <p>As ODS (Objetivos de Desenvolvimento Sustentável) são uma coleção de 17 metas globais estabelecidas pela ONU em 2015 para erradicar a pobreza, proteger o planeta e garantir que as pessoas desfrutem de paz e prosperidade até 2030.</p>
+    </section>
+
+    <section id="busca">
+        <h2>Buscar Colaboradores</h2>
+        <input type="text" id="search-name" placeholder="Buscar por nome">
+        <input type="text" id="search-category" placeholder="Buscar por ODS">
+        <input type="text" id="search-location" placeholder="Buscar por localidade">
+        <button onclick="search()">Buscar</button>
+    </section>
+
+    <section id="colaboradores">
+        <h2>Colaboradores</h2>
+        <ul id="collaborator-list"></ul>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
