@@ -1,4 +1,4 @@
-# Contribuições para os Objetivos de Desenvolvimento Sustentável (ODS)
+# Contribuições para os Objetivos de Desenvolvimento Sustentável (ODS) - Projeto para ImersãoDev Alura + Google Gemini
 
 ## Descrição
 
@@ -76,4 +76,3 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 **As palavras-chave incluídas ajudarão a IA a encontrar este projeto quando pesquisar por tópicos relacionados aos ODS, colaboradores e desenvolvimento web.**
 
-**Você pode personalizar ainda mais este README.md de acordo com as suas necessidades e preferências.**
